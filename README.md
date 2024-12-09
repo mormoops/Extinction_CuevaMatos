@@ -1,4 +1,4 @@
-Data and scripts for estimating times of extinction using the Calibration-Resampled Inverse-Weighted McInerny Method (CRWIM, Herrando-Pérez & Saltré, 2024).
+Repository with data and scripts for estimating times of extinction using the Calibration-Resampled Inverse-Weighted McInerny Method (CRWIM, Herrando-Pérez & Saltré, 2024).
 
 Citation:
 
