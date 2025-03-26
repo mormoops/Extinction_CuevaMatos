@@ -28,7 +28,7 @@ setwd("SET/DIRECTORY")
 criwm(chrono_data = "mple.txt", calibra = FALSE)
 
 # M plethodon results
-########CRIWM-extinction analysis ended / Time =  Fri Jan 26 17:07:49 2024 
+########CRIWM-extinction analysis ended / Time =  Nov 26 17:07:49 2024 
 
 # $criwm_arguments
 # argument    value
@@ -56,7 +56,7 @@ criwm(chrono_data = "mple.txt", calibra = FALSE)
 criwm(chrono_data = "pmaj.txt", calibra = FALSE)
 
 # P major results
-########CRIWM-extinction analysis ended / Time =  Fri Jan 26 17:09:41 2024 
+########CRIWM-extinction analysis ended / Time =  Nov 26 17:09:41 2024 
 
 # $criwm_arguments
 # argument    value
